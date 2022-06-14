@@ -1,4 +1,8 @@
-# Planner 0613 Mon
+# Planner 0614 Tu
+
+## Daily
+* Bring boxes to lab.
+* Buy display cases.
 
 ## PGE
 * Leetcode Easy : 0/4
