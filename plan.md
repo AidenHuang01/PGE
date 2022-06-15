@@ -4,6 +4,7 @@
 * Bring boxes to lab.
 * Buy display cases.
 * Bring your cup to lab
+* Bring trash bag to lab
 
 ## PGE
 * Leetcode Easy : 0/4
