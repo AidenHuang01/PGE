@@ -2,6 +2,7 @@
 
 ## Daily
 * Buy display cases.
+* Take napkin to lab.
 
 ## PGE
 * Leetcode Easy : 0/4
