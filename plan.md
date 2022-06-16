@@ -2,11 +2,10 @@
 
 ## Daily
 * Buy display cases.
-* Take napkin to lab.
 
 ## PGE
-* Leetcode Easy : 0/4
-* Leetcode Medium : 0/3
+* Leetcode Easy : 2/4
+* Leetcode Medium : 1/3
 * Leetcode Hard : 0/1
 
 ## WCSNG
