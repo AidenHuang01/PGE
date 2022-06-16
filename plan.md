@@ -11,6 +11,7 @@
 ## WCSNG
 * Project 3D bounding boxes onto 2D images for detection validation
 * BoxNet?
+* Plan for SRIP
 
 ## Gamma
 * Make plan
