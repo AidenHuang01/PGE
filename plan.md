@@ -11,7 +11,10 @@
 ## WCSNG
 * Project 3D bounding boxes onto 2D images for detection validation
 * BoxNet?
-  
+
+## Gamma
+* Make plan
+
 ## Other
 * Chat with Alex
 * Email with YY Zhou for 120 reference letter
