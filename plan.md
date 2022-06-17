@@ -4,14 +4,13 @@
 * Buy display cases.
 
 ## PGE
-* Leetcode Easy : 2/4
+* Leetcode Easy : 1/4
 * Leetcode Medium : 1/3
 * Leetcode Hard : 0/1
 
 ## WCSNG
 * Project 3D bounding boxes onto 2D images for detection validation
 * BoxNet?
-* Plan for SRIP
 
 ## Gamma
 * Make plan
