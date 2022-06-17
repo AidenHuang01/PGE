@@ -4,7 +4,7 @@
 * Buy display cases.
 
 ## PGE
-* Leetcode Easy : 5/4
+* Leetcode Easy : 6/4
 * Leetcode Medium : 1/3
 * Leetcode Hard : 0/1
 
