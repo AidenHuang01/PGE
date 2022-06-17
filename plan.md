@@ -5,7 +5,7 @@
 
 ## PGE
 * Leetcode Easy : 6/4
-* Leetcode Medium : 1/3
+* Leetcode Medium : 2/3
 * Leetcode Hard : 0/1
 
 ## WCSNG
