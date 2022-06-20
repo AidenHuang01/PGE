@@ -4,8 +4,8 @@
 * Buy display cases.
 
 ## PGE
-* Leetcode Easy : 6/4
-* Leetcode Medium : 2/3
+* Leetcode Easy : 4/4
+* Leetcode Medium : 3/3
 * Leetcode Hard : 0/1
 
 ## WCSNG
@@ -13,9 +13,10 @@
 * BoxNet?
 
 ## Gamma
-* Make plan
+* Play with unity
 
 ## Other
 * Chat with Alex
 * Email with YY Zhou for 120 reference letter
 * SSN
+* Plan for Shimo
